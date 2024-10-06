@@ -74,7 +74,7 @@ public class Estudiante_Ingenieria {
         this.serial = serial;
     }
 
-    
-    
-
+    public String toString(){
+        return "";
+    }
 }
